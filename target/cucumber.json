@@ -11,7 +11,7 @@
         "steps": []
       },
       {
-        "start_timestamp": "2023-12-21T00:31:18.881Z",
+        "start_timestamp": "2024-01-09T21:57:27.443Z",
         "line": 16,
         "name": "As a loggedin user I want to logout from Parabank website",
         "description": "",
@@ -32,7 +32,7 @@
           },
           {
             "result": {
-              "duration": 1001200,
+              "duration": 997100,
               "status": "passed"
             },
             "line": 8,
@@ -106,7 +106,6 @@
           },
           {
             "result": {
-              "duration": 991200,
               "status": "passed"
             },
             "line": 13,
